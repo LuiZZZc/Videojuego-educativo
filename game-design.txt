@@ -1,0 +1,13 @@
+Paseo por la Historia es un videojuego educativo diseñado para enseñar Historia a estudiantes de primaria a través de una experiencia inmersiva y emocionante.
+
+La historia se desarrolla en Historilandia, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+
+El protagonista de esta aventura es Alex, un/a niño/a valiente con cabello castaño y ojos curiosos. Alex es un/a joven historiador/a que ha sido elegido/a para una misión única: rescatar artefactos históricos robados por un misterioso villano. Con su habilidad especial para descifrar códigos antiguos, Alex deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Historia.
+
+El jugador podrá explorar diferentes épocas históricas, para avanzar deberá resolver acertijos históricos y los desafíos incluirán batallas estratégicas, reconstrucción de artefactos y cuestionarios interactivos.
+
+Los estudiantes avanzarán mediante un sistema de niveles. Cada nivel representa un concepto educativo clave, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán la cronología histórica mediante líneas de tiempo interactivas. Se reforzará la comprensión de eventos importantes a través de misiones específicas y las evaluaciones se realizarán mediante minijuegos y cuestionarios, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando Unity y tendrá soporte para plataformas móviles. Además, se implementarán características como gráficos en 3D de alta calidad y una interfaz amigable para garantizar una experiencia de juego fluida y atractiva.
